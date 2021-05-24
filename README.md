@@ -3,4 +3,4 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by Senay for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Senay](https://github.com/Senayson) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
